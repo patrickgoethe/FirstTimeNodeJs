@@ -1,0 +1,18 @@
+{
+  "name": "name",
+  "description": "description",
+  "author": "author",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "dependencies": {
+    "browser-sync": "^2.7.12",
+    "express": "^4.12.4",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-declare": "^0.3.0",
+    "gulp-handlebars": "^4.0.0",
+    "gulp-less": "^3.0.3",
+    "gulp-wrap": "^0.11.0",
+    "through2": "^2.0.0"
+  }
+}
